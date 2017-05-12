@@ -9,3 +9,6 @@ TEST_FILES  = test
 
 lint:
 	$(ESLINT) lib/*
+
+bundle:
+	$(BIN)/webpack -d
