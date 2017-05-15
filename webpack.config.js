@@ -9,7 +9,7 @@ const config = {
   output: {
     path: BUILD_DIR,
     filename: 'bundle.js',
-    libraryTarget: 'amd'
+    libraryTarget: 'commonjs'
   },
   module : {
     loaders : [
