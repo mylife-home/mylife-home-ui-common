@@ -33,7 +33,7 @@
     "eslint-plugin-react": "^6.7.1"
   },
   "scripts": {
-    "install": "./node_modules/webpack/bin/webpack.js -d"
+    "install": "./node_modules/webpack/bin/webpack.js -p"
   },
   "license": "GPL-3.0+"
 }
