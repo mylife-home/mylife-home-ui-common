@@ -1,6 +1,6 @@
 {
   "name": "mylife-home-ui-common",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Mylife Home UI Common between browser and mobile version",
   "main": "dist/bundle.js",
   "repository": "https://github.com/vincent-tr/mylife-home-ui-common",
